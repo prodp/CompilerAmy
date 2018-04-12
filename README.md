@@ -1,2 +1,2 @@
 # CompilerAmy
-Amy Compiler Implementation - Contributors: Stephane Selim and Diana Petrescu.
+Amy Compiler Implementation - Contributors: Stephane Selim and Diana Petrescu. See report (https://github.com/prodp/CompilerAmy/blob/master/report/amy-compiler-extension.pdf) for more informations.
