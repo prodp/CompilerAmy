@@ -1,0 +1,14 @@
+# sbt compilation output
+target/
+project/target
+# idea
+.idea
+# Compiler output and nodejs modules
+compiler/**/*.html
+compiler/**/*.wat
+compiler/**/*.wasm
+compiler/**/*.js
+compiler/node_modules
+# Vim
+*.swp
+

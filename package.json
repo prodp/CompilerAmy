@@ -1,0 +1,24 @@
+{
+  "name": "clp17-group39",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "deasync": "^0.1.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@larasrv13.epfl.ch:clp17-group39"
+  },
+  "author": "",
+  "license": "ISC"
+}
